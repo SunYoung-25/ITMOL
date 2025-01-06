@@ -9,5 +9,5 @@
 
 ![ITMol Architecture](assets/overview.jpg)
 
-The image above illustrates the architecture of ITMol. For more details, you can download the PDF:
-[Download ITMol Overview (PDF)](assets/overview.pdf)
+The overview of the proposed ITMol model. (a) The data construction phase results in a dataset of 500k molecular image-text pairs.
+(b) The pre-training phase aligns text and image modalities. (c) The fine-tuning phase predicts molecular properties.
